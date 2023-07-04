@@ -1,0 +1,20 @@
+Nombre: LEANDRO; Apellido: CRUZ; Legajo: 001; Categoria: Inicial; 
+
+Nombre: JUAN; Apellido: PEREZ; Legajo: 002; Categoria: Superior; 
+
+Nombre: PEDRO; Apellido: PASCAL; Legajo: 003; Categoria: Senior; 
+
+Nombre: PABLO; Apellido: MINUZZI; Legajo: 004; Categoria: Intermedio; 
+
+Nombre: FRANCO; Apellido: PEREYRA; Legajo: 005; Categoria: Inicial; 
+
+Nombre: LUCIANA; Apellido: ALVAREZ; Legajo: 006; Categoria: Superior; 
+
+Nombre: CARLA; Apellido: DIAZ; Legajo: 007; Categoria: Inicial; 
+
+Nombre: PEDRO; Apellido: GONZALEZ; Legajo: 008; Categoria: Intermedio; 
+
+Nombre: LUCIA; Apellido: BENITEZ; Legajo: 009; Categoria: Superior; 
+
+Nombre: LORENZO; Apellido: SALVATIERRA; Legajo: 010; Categoria: Inicial; 
+
